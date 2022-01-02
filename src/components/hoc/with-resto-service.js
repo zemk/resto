@@ -1,7 +1,7 @@
 import React from 'react';
 import RestoServiceContext from '../resto-service-context';
 import RestoServiceComtext from '../resto-service-context/resto-service-context';
-// компонет вишехо порятдак
+
 const WithRestoService = () => (Wrapped) => {
     return(props)=>{
         return(

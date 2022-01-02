@@ -3,7 +3,7 @@ import {MainPage, CartPage} from '../pages';
 import AppHeader from '../app-header';
 import { Route, Switch } from 'react-router-dom'
 import Background from './food-bg.jpg';
-// RestoService приходе пропси
+
 const App = () => {
 
     return (
